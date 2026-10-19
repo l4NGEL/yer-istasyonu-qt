@@ -1,4 +1,5 @@
 # yer-istasyonu-qt
+n[![CI](https://github.com/l4NGEL/yer-istasyonu-qt/actions/workflows/ci.yml/badge.svg)](https://github.com/l4NGEL/yer-istasyonu-qt/actions/workflows/ci.yml)
 
 Linux için Qt 6 / QML ve C++17 ile yazılmış, MAVLink konuşan küçük bir yer kontrol istasyonu.
 Bağlı araçtan telemetri alır, harita üzerinde görev planlatıp araca yükler, faydalı yükün
